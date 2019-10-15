@@ -34,7 +34,7 @@ Golang for Advanced
 
 # Coding Interview Questions 
 
-[Hacker Rank]
+[Hacker Rank](./GO_HackerRank/HackerRankReadme.md)
 
 # Machine Learning with Go
 
